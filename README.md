@@ -78,7 +78,7 @@
 
 
   <footer>
-    &copy; 2025 nome do advogado t | OAB/RJ [número]
+    &copy; 2025 Rafael Thales Moret | OAB/RJ 267.052
   </footer>
 
 </body>
