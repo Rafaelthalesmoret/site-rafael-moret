@@ -68,11 +68,14 @@
   </section>
 
   <section id="contato">
-    <h2>Contato</h2>
-    <p>📧 email@email.com</p>
-    <p>📞 (21) 00000-0000</p>
-    <p>📍 Agende seu atendimento</p>
-  </section>
+ <h2>Contato</h2>
+<p>📧 moret.thales@gmail.com</p>
+<p>📞 (21) 96888-5678</p>
+<p>📍 <a href="https://wa.me/5521968885678?text=Ol%C3%A1,%20gostaria%20de%20falar%20com%20um%20advogado" target="_blank">
+    Fale conosco pelo WhatsApp
+</a></p>
+</section>
+
 
   <footer>
     &copy; 2025 nome do advogado t | OAB/RJ [número]
