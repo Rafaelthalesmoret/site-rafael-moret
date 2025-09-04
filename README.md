@@ -57,7 +57,6 @@
       <a href="#contato">Contato</a>
     </nav>
   </header>
-
   <section id="atuacao">
     <h2>Áreas de Atuação</h2>
     <ul>
@@ -66,7 +65,6 @@
       <li>Direito Civil</li>
     </ul>
   </section>
-
   <section id="contato">
  <h2>Contato</h2>
 <p>📧 moret.thales@gmail.com</p>
